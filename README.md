@@ -1,5 +1,7 @@
 # Fake versus Real News: Shedding Light on Information Authenticity
 
+![Fake vs Real Data Distribution](https://github.com/DeepNets-US/Fake-vs-Real-News-Detection/assets/118154709/5095875e-53b6-4159-a8f6-53a1cef0e67b)
+
 This GitHub repository contains a project that focuses on detecting fake news from real news using a BERT classification model. The project is organized into several sections as described below.
 
 ## Table of Contents
