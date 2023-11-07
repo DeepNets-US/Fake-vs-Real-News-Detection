@@ -50,10 +50,6 @@ In this section, the evaluation metrics and results of the trained BERT model ar
 
 You can find sample predictions made by the trained model in this section, showcasing how the model works on real data.
 
-## License
-
-This project is licensed under the **Private License**. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Any acknowledgments or credits for libraries, data sources, or contributors can be mentioned in this section.
